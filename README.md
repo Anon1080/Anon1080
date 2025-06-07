@@ -3,10 +3,10 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Welcome" width="60%" />
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Working" width="40%" />
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anon1080&style=flat&color=orange&label=PROFILE+VIEWS)
-[![Telegram](https://img.shields.io/badge/Contact-Telegram-blue?style=flat&logo=telegram)](https://t.me/spxd007)
+
 
 </div>
 
