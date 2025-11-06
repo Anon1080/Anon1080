@@ -1,53 +1,55 @@
-<!-- ===================================================== -->
-<!--                  DeepTech | README.md                  -->
-<!-- ===================================================== -->
+# $ whoami → DeepTech  
 
-<p align="center">
-  <img src="assets/My-Logo.png" alt="DeepTech Logo" width="500">
-</p>
+#### “Where hardware meets software — building intelligent systems from the circuit up.”  
 
-<h1 align="center">Hi there, I'm <span style="color:#00F7FF;">DeepTech</span> 👋</h1>
-<h3 align="center">Electronics Engineer • Embedded Systems Developer • PCB Designer</h3>
+Reach me at: **deeptech@domain.com**
 
----
-
-### 🧠 About Me
-
-I’m **DeepTech**, an **Electronics Engineer** passionate about **Embedded Systems**, **IoT Devices**, and **PCB Design**.  
-I specialize in building smart hardware that bridges the gap between **software** and **electronics**.
-
-🔧 **Hardware Tools:** Altium Designer • Proteus • LTSpice  
-⚙️ **Microcontrollers:** ESP32 • Arduino • AVR  
-🧩 **Core Languages:** Python • Arduino • C  
-🎯 **Interests:** Control Systems • Signal Processing • IoT Networks  
+> ⚠️ These are personal projects — built from curiosity, not commercial intent.  
+> One person behind it all — passionate about electronics, control systems, and embedded design.  
+> Something broken? Fork it, fix it, and make it better.  
 
 ---
 
-### 🚀 Featured Projects
+## ⚙️ About Me  
 
-#### 🛰 ESP32 IoT Data Logger  
-Wireless data logging system that collects sensor data and sends it to the cloud for real-time analysis.  
+I’m **DeepTech**, an **Electronics Engineer** focused on **embedded systems**, **IoT devices**, and **hardware design**.  
+I build, test, and document electronic systems that connect the physical and digital worlds.  
 
-#### ⚙️ Arduino PID Motor Controller  
-Closed-loop motor control with adjustable PID coefficients and serial feedback visualization.  
-
-#### 🌐 Smart Sensor Network  
-Multi-node ESP32 system for distributed data acquisition using LoRa & ESP-NOW communication.
-
----
-
-### 💡 Tech Stack
-
-| Category | Tools |
-|-----------|-------|
-| **Languages** | Python, Arduino, C |
-| **Design** | Altium Designer, Proteus, LTSpice |
-| **Microcontrollers** | ESP32, Arduino, AVR |
-| **Learning** | Control Systems, Signal Processing, Python Automation |
+🧩 **Core:** Hardware • Firmware • Systems Integration  
+⚡ **Languages:** Python • Arduino • C  
+🔬 **Tools:** Altium Designer • Proteus • LTSpice  
+📡 **Platforms:** ESP32 • Arduino • AVR  
+🎯 **Interests:** Control Systems • Signal Processing • IoT Architecture  
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 Featured Projects  
+
+### 🛰 ESP32-IoT-Logger  
+Data logging system built with ESP32 and Python — captures, transmits, and visualizes environmental data in real time.
+
+### ⚙️ Arduino PID Motor Controller  
+Closed-loop motor control using PID algorithm written in C and Arduino language.
+
+### 🌐 Smart Sensor Network  
+ESP32 nodes communicating over ESP-NOW forming a self-healing mesh network for distributed sensor systems.
+
+---
+
+## 🧩 Learning and Research  
+
+📘 **Currently Exploring:**  
+- Control System Design for Microcontrollers  
+- Signal Processing Applications for Embedded Hardware  
+- IoT Cloud Integration using MQTT and WebSockets  
+- Python for Hardware Automation  
+
+---
+
+## 📊 GitHub Stats  
+
+<details>
+<summary>Click to expand</summary>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeepTech&show_icons=true&theme=github_dark&hide_border=true&title_color=00F7FF&icon_color=00F7FF" height="165px"/>
@@ -55,31 +57,36 @@ Multi-node ESP32 system for distributed data acquisition using LoRa & ESP-NOW co
 </p>
 
 <p align="center">
-  <!-- Custom top languages card to highlight only Python, Arduino, C -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepTech&langs_count=3&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&custom_title=Most%20Used%20Languages&layout=compact&exclude_repo=HTML,JavaScript,CSS" />
 </p>
 
----
-
-### 🧩 Currently Learning
-
-- Python for Embedded Systems  
-- Signal Processing Fundamentals  
-- Control Systems Design  
-- IoT Cloud Dashboards with ESP32  
+</details>
 
 ---
 
-### 🌐 Connect With Me
+## 🧩 Tech Stack Overview  
 
-<p align="center">
-  <a href="https://github.com/DeepTech"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/></a>
-  <a href="mailto:YOUR.EMAIL@domain.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/></a>
-</p>
+| Category | Tools |
+|-----------|-------|
+| **Languages** | Python, Arduino, C |
+| **Hardware Design** | Altium Designer, Proteus, LTSpice |
+| **Microcontrollers** | ESP32, Arduino, AVR |
+| **Simulation** | LTSpice, Multisim |
+| **Research** | Control Systems, Signal Processing, IoT |
 
 ---
 
-<p align="center">
-  <i>“Building the future one circuit at a time.”</i>
-</p>
+## 🌐 Connect  
+
+- 💻 [GitHub](https://github.com/DeepTech)  
+- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
+- ✉️ deeptech@domain.com  
+
+---
+
+### ⚙️  
+> “Hardware without software is static. Software without hardware is imagination.  
+> Only when they merge does innovation begin.”  
+> — **DeepTech**
+
+---
