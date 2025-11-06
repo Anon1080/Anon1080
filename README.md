@@ -2,7 +2,7 @@
 
 #### “Where hardware meets software — building intelligent systems from the circuit up.”  
 
-Reach me at: **deeptech@domain.com**
+
 
 > ⚠️ These are personal projects — built from curiosity, not commercial intent.  
 > One person behind it all — passionate about electronics, control systems, and embedded design.  
