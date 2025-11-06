@@ -4,12 +4,12 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="My%20Logo.png" alt="DeepTech Logo" width="580" style="border-radius: 20px; box-shadow: 0 0 25px #00F7FF;">
+  <img src="assets/My-Logo.png" alt="DeepTech Logo" width="580" style="border-radius: 20px; box-shadow: 0 0 25px #00F7FF;">
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=$+whoami+→+DeepTech;Electronics+Engineer+|+Embedded+Systems+Developer;Hardware+Designer+|+IoT+Builder;Exploring+Control+Systems+%26+Signal+Processing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=$+whoami+→+DeepTech;Electronics+Engineer+|+Embedded+Systems+Developer;Hardware+Designer+|+IoT+Builder;Learning+Python,+Arduino+%26+C" alt="Typing SVG" />
 </p>
 
 <!-- Divider -->
@@ -28,15 +28,15 @@
 
 ## 👨‍💻 About Me
 
-Hello! I’m **DeepTech**, an **Electronics Engineer** passionate about **embedded systems**, **hardware design**, and **IoT development**.  
-I build systems that combine **hardware + software**, transforming simple circuits into smart, connected technologies.
+Hey there 👋 I’m **DeepTech**, an **Electronics Engineer** passionate about **embedded systems**, **PCB design**, and **IoT hardware**.  
+I enjoy bringing hardware to life — from circuits and PCB layouts to intelligent, connected systems.
 
 🔧 **Hardware Tools:** Altium Designer • Proteus • LTSpice • Multisim  
 💡 **Microcontrollers:** ESP32 • Arduino • AVR • Raspberry Pi (Learning)  
-🧠 **Programming:** Python • C/C++ • Arduino IDE • Git  
-🎯 **Focus Areas:** Embedded Systems • Control Systems • Signal Processing • IoT Engineering  
+🧠 **Languages:** Python • Arduino • C  
+🎯 **Focus Areas:** Control Systems • Signal Processing • IoT Development  
 
-> *“Engineering is where creativity meets precision.”*
+> *"Combining hardware and software to make ideas come alive."*
 
 ---
 
@@ -44,11 +44,11 @@ I build systems that combine **hardware + software**, transforming simple circui
 
 | Category | Tools & Platforms |
 |-----------|------------------|
+| **Languages** | Python • Arduino • C |
 | **Hardware Design** | Altium Designer • Proteus • LTSpice • KiCad |
-| **Embedded Systems** | ESP32 • Arduino • AVR • STM32 |
-| **Programming & Software** | Python • C/C++ • Arduino Language • Git • VS Code |
-| **Simulation & Testing** | Multisim • MATLAB/Simulink • Tinkercad |
-| **Research Areas** | Control Systems • Signal Processing • IoT Communication |
+| **Microcontrollers** | ESP32 • Arduino • STM32 • AVR |
+| **Simulation & Testing** | Multisim • Tinkercad • MATLAB/Simulink |
+| **Research Areas** | Control Systems • Signal Processing • IoT Protocols |
 
 ---
 
@@ -62,27 +62,25 @@ I build systems that combine **hardware + software**, transforming simple circui
 
 | 🧠 Project | ⚡ Description |
 |-------------|----------------|
-| **ESP32 IoT Data Logger** | Wireless data collection system using sensors + ESP32 + cloud API integration. |
-| **Arduino PID Motor Controller** | Closed-loop control with PID tuning for motor speed regulation. |
-| **Smart Sensor Network** | Distributed communication between ESP32 nodes using LoRa/ESP-NOW. |
-| **LTspice Simulation Library** | Library of verified simulation circuits for embedded hardware engineers. |
-
-> All projects include hardware schematics, source code, and documentation.
+| **ESP32 IoT Data Logger** | A wireless sensor node capturing environmental data and sending it to the cloud dashboard. |
+| **Arduino PID Motor Controller** | Closed-loop speed & position control using feedback sensors and PID algorithm. |
+| **Smart Sensor Network** | LoRa/ESP-NOW-based mesh network for multi-node communication. |
+| **PCB Simulation Library** | Verified LTSpice & Proteus simulation files for embedded systems design. |
 
 ---
 
-## 🧩 Research & Learning
+## 🧩 Learning & Development
 
-📘 Currently Exploring:  
-- Control Systems Design for Embedded Devices  
-- Digital Signal Processing Fundamentals  
-- IoT Network Protocols and Edge Computing  
-- Python for Automation & Embedded Applications  
+📘 Currently Learning:  
+- Advanced Python for Hardware & Automation  
+- Signal Processing Fundamentals  
+- Control System Implementation on Microcontrollers  
+- IoT Networking & Cloud Integration  
 
-🛠 Upcoming Tutorials:  
-- Building an ESP32 Cloud IoT Dashboard  
-- Implementing PID Motor Control in Arduino  
-- Creating Custom PCB Libraries in Altium Designer  
+🛠 Upcoming Projects:  
+- ESP32 Cloud Dashboard with WebSocket Interface  
+- Arduino-based Closed-Loop Servo Control  
+- Custom PCB Libraries for Prototyping & Testing  
 
 ---
 
@@ -114,5 +112,5 @@ I build systems that combine **hardware + software**, transforming simple circui
 </p>
 
 <p align="center">
-  ⚙️ *“Hardware without software is just metal. Software without hardware is just theory.”* — DeepTech
+  ⚙️ *"Hardware without software is just metal. Software without hardware is just theory."* — DeepTech
 </p>
