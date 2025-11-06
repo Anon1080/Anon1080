@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 Hello, I'm LiTechno
+## 👋 Hello, I'm DeepTech
 
 ### ⚡ Embedded Systems & Hardware Developer
 
@@ -81,7 +81,7 @@
 ```cpp
 // Class Representation
 
-class LiTechno {
+class DeepTech {
  public:
   std::string role = "Embedded & Hardware Engineer";
   std::vector<std::string> languages = { "C", "C++", "Python" };
@@ -90,7 +90,7 @@ class LiTechno {
 };
 
 
-class LiTechno {
+class DeepTech {
  public:
   string role = "Embedded Systems Developer";
   string tools[] = { "Arduino", "ESP32", "Altium Designer", "VS Code", "Git" };
