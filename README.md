@@ -1,100 +1,64 @@
-<div align="center">
-
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Working" width="40%" />
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Anon1080&style=flat&color=orange&label=PROFILE+VIEWS)
-
-
-</div>
+<h1 align="center">👋 Hey there, I'm DeepTech</h1>
+<h3 align="center">Electronics Engineer | Embedded Systems Developer | Tech Explorer</h3>
 
 ---
 
-## 👋 Hello, I'm DeepTech
+### 🧠 About Me  
+I'm an **Electronics Engineer** passionate about **hardware design**, **microcontrollers**, and **embedded systems**.  
+I love turning circuit ideas into real-world prototypes using tools like **Altium Designer**, **Proteus**, and **LTspice** — and bringing them to life with **ESP32** and **Arduino**.  
 
-### ⚡ Embedded Systems & Hardware Developer
+Currently, I’m sharpening my programming skills with **Python**, **C/C++ (Arduino)**, and diving deeper into **Control Systems** and **Signal Processing** to build smarter and more connected systems.  
 
-🔧 I specialize in building robust hardware-integrated systems with real-time firmware.  
-🔌 I work primarily with **Arduino**, **ESP32**, and **STM32** platforms.  
-🧠 I write efficient and clean code in **C/C++** for microcontroller applications.  
-📐 I design professional-grade PCBs using **Altium Designer**.  
-🐧 Linux is my preferred development environment.
+> 🚀 My goal: To bridge hardware and software, creating intelligent embedded solutions.
 
 ---
 
-## 🛠️ Technical Skills
+### ⚙️ Tech Stack
 
-### 🚀 Embedded Development
-- **Languages:** C, C++, Python
-- **Platforms:** Arduino, ESP32, STM32
-- **Tools:** PlatformIO, Arduino IDE, ESP-IDF
+#### 💡 Hardware & Simulation  
+`Altium Designer` • `Proteus` • `LTspice` • `Multisim`
 
-### 🧰 Hardware Design
-- **PCB Design:** Altium Designer (professional workflow)
-- **Simulation:** LTspice, Proteus
+#### 🔌 Microcontrollers & Platforms  
+`ESP32` • `Arduino` • `AVR` • `Raspberry Pi (Learning)`
 
-### 🛎️ Productivity Stack
-- **Version Control:** Git & GitHub
-- **Editors:** VS Code, Neovim
-- **OS:** Linux (daily driver), Windows (secondary)
+#### 💻 Programming & Tools  
+`C/C++` • `Arduino Language` • `Python` • `Git` • `VS Code`
+
+#### ⚡ Engineering Interests  
+`Embedded Systems` • `Control Systems` • `Signal Processing` • `IoT Systems`
 
 ---
 
-## 🧑‍💻 Toolbox
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-black?style=flat&logo=espressif&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### 🧩 Current Focus
+- 🌱 Learning **Python for Embedded & Automation**
+- 🧠 Exploring **Control Theory & Signal Processing**
+- 💡 Building projects using **ESP32 + Sensors + IoT**
+- 📘 Studying **PCB Design with Altium Designer**
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Projects & Experiments  
+🔹 [Coming Soon] ESP32-based IoT Monitoring System  
+🔹 [Coming Soon] Arduino PID Motor Control  
+🔹 [Coming Soon] LTspice Circuit Simulation Library  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anon1080&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon1080&layout=compact&theme=radical" width="48%" />
-</div>
-
----
-
-## 📂 Featured Projects
-
-> *(Add links to your top repositories here)*
-
-- [🔋 Smart Li-ion Battery Balancer](#)
-- [📡 IoT Sensor Node with ESP32](#)
-- [📦 Custom Buck Converter PCB with Digital Control](#)
-- [⚙️ 3D Printer Custom Firmware Tweaks](#)
+> 🧾 Check back soon — I’m documenting and open-sourcing my new projects as I go.
 
 ---
 
-## 📌 Fun Stuff
+### 📫 Connect With Me
+<p align="left">
+<a href="https://github.com/DeepTech" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:YOUR.EMAIL@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-```cpp
-// Class Representation
+---
 
-class DeepTech {
- public:
-  std::string role = "Embedded & Hardware Engineer";
-  std::vector<std::string> languages = { "C", "C++", "Python" };
-  std::vector<std::string> platforms = { "ESP32", "Arduino", "STM32" };
-  std::vector<std::string> tools = { "Altium Designer", "VS Code", "Git" };
-};
+### ⚡ Fun Fact
+> I believe great electronics projects start with curiosity, a soldering iron, and a bit of code.
 
+---
 
-class DeepTech {
- public:
-  string role = "Embedded Systems Developer";
-  string tools[] = { "Arduino", "ESP32", "Altium Designer", "VS Code", "Git" };
-  string languages[] = { "C", "C++", "Python" };
-  string interests[] = { "RTOS", "IoT", "3D Printing", "Control Systems" };
-};
-
+⭐ **“Engineering is where logic meets creativity.”**  
+<p align="center">– DeepTech ⚙️</p>
